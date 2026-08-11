@@ -1,0 +1,46 @@
+{
+  "apps": [
+    {
+      "name": "ATV Launcher Pro",
+      "category": "LauncherTV",
+      "url": "https://raw.githubusercontent.com/ItsMeZhang/AndroidTVBoxResource/main/app/LauncherTV/ATV%20Launcher%20Pro.apk",
+      "filename": "ATV Launcher Pro.apk",
+      "size": 2691786
+    },
+    {
+      "name": "Emotn UI TV Launcher",
+      "category": "LauncherTV",
+      "url": "https://raw.githubusercontent.com/ItsMeZhang/AndroidTVBoxResource/main/app/LauncherTV/Emotn%20UI%20TV%20Launcher.apk",
+      "filename": "Emotn UI TV Launcher.apk",
+      "size": 15943964
+    },
+    {
+      "name": "FLauncher",
+      "category": "LauncherTV",
+      "url": "https://raw.githubusercontent.com/ItsMeZhang/AndroidTVBoxResource/main/app/LauncherTV/FLauncher.apk",
+      "filename": "FLauncher.apk",
+      "size": 26737553
+    },
+    {
+      "name": "Google TV Home",
+      "category": "LauncherTV",
+      "url": "https://raw.githubusercontent.com/ItsMeZhang/AndroidTVBoxResource/main/app/LauncherTV/GoogleTVHome.apk",
+      "filename": "GoogleTVHome.apk",
+      "size": 21907179
+    },
+    {
+      "name": "Home TV Launcher",
+      "category": "LauncherTV",
+      "url": "https://raw.githubusercontent.com/ItsMeZhang/AndroidTVBoxResource/main/app/LauncherTV/HomeTVLauncher.apk",
+      "filename": "HomeTVLauncher.apk",
+      "size": 11586860
+    },
+    {
+      "name": "Projectivy Launcher",
+      "category": "LauncherTV",
+      "url": "https://raw.githubusercontent.com/ItsMeZhang/AndroidTVBoxResource/main/app/LauncherTV/ProjectivyLauncher.apk",
+      "filename": "ProjectivyLauncher.apk",
+      "size": 10952551
+    }
+  ]
+}
